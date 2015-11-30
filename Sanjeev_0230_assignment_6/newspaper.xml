@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Sanjeev" EDITOR="DWITNEWS" DATE="11/30/2015" EDITION="100">
+        <HEADLINE>Library Management System Implemented in DWIT</HEADLINE>
+        <BYLINE>Sanjeev</BYLINE>
+        <LEAD>DWITNEWS</LEAD>
+        <BODY>This application is going to help manage the library which will in return help both the students as well as the librarian.</BODY>
+        <NOTES>Taken from DWIT News.</NOTES>
+    </ARTICLE>
+</NEWSPAPER>

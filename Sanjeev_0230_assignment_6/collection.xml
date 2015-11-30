@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "recipe.dtd">
+<collection>
+    <description>Recipes to know</description>
+    <recipe>
+        <title>Fry noodles</title>
+        <ingredient name="noodles" amount="1"/>
+        <ingredient name="oil" amount="2" unit="tablespoon"/>
+        <ingredient name="Vegetable masala" amount="1" unit="tablespoon"/>
+        <preparation>
+        <step>keep noodles into a boiled water for 5  minutes</step>
+            <step>Heat oil in a frying pan .</step>
+            <step>keep the boiled noodles in the pan </step>
+            <step>put the masala ani stir the noodle for 2-5 minutes</step>
+               
+        </preparation>
+        <comment>
+            Make sure the contents are stirred properly and noodles is cooked.
+        </comment>
+        <nutrition calories="250" fat="20" carbohydrates="25" protein="50" alcohol="0"/>
+    </recipe>
+ 
